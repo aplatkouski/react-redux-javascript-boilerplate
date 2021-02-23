@@ -1,0 +1,39 @@
+{
+  "name": "react-redux-javascript-boilerplate",
+  "version": "0.0.1",
+  "description": "Application boilerplate for React and Redux, implemented in Javascript.",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Artsiom Platkouski",
+    "email": "komukc.apt@gmail.com",
+    "url": "https://www.linkedin.com/in/artsiom-platkouski/"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "javascript",
+    "boilerplate"
+  ],
+  "homepage": "https://github.com/aplatkouski/react-redux-javascript-boilerplate#README.md",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:aplatkouski/react-redux-javascript-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aplatkouski/react-redux-javascript-boilerplate/issues"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 2 chrome versions"
+    ]
+  }
+}
